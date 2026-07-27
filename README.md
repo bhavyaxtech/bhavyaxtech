@@ -128,25 +128,9 @@ I'm passionate about building AI-powered applications, scalable backend systems,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=bhavyaxtech&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bhavyaxtech&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 <br/>
