@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="Assets/banner.png" width="100%" alt="Bhavya Sri Banner"/>
+</p>
 
 
 # Hi, I'm Bhavya Sri 👋
