@@ -128,24 +128,23 @@ I'm passionate about building AI-powered applications, scalable backend systems,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyaxtech&theme=tokyonight&hide_border=true)
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=bhavyaxtech&theme=tokyonight&hide_border=true" />
 
-<div align="center">
+<br><br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhavyaxtech&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=bhavyaxtech&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 <br/>
 
 ## 📈 Contribution Graph
-
 <div align="center">
 
 [![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyaxtech&theme=tokyo-night)](https://github.com/bhavyaxtech)
