@@ -1,11 +1,7 @@
 <div align="center">
-<p align="center">
-  <a href="https://github.com/bhavyaxtech">
-    <img src="Assets/banner.png" alt="Bhavya Sri Banner" width="100%" />
-  </a>
-</p>
 
-## 👋 Welcome to my GitHub
+
+## 👋 Hi, I'm Bhavya Sri 
 
 I'm passionate about building AI-powered applications, scalable backend systems, and modern full-stack solutions.
 
