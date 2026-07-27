@@ -72,46 +72,57 @@ I'm passionate about building AI-powered applications, scalable backend systems,
 
 ## 💡 Featured Projects
 
-### 🚀 CIFAKE – Real vs AI Generated Image Classification
+### 🚀 [CIFAKE – Real vs AI Generated Image Classification](https://cifake-image-detection-production.up.railway.app)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-blue?style=flat-square)
+> AI-powered image classifier that detects whether an image is **Real** or **AI Generated** using deep learning CNN models with explainability features.
 
-Deep learning–based image classification system...
+**Tech Stack:** `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning`
 
+🔗 **Live Demo:** https://cifake-image-detection-production.up.railway.app
 
-### 🔹 [Intelli Credit](https://intelli-credit-kappa.vercel.app/)
-A multi-stage RAG-based credit appraisal engine combining OCR document extraction, vector retrieval, and LLM-based scoring. I built the FastAPI backend and PostgreSQL schema powering the OCR-to-scoring pipeline, along with a risk-scoring and audit-trail module that cut manual review effort by ~50%.
-`React.js` `Python` `FastAPI` `PostgreSQL` `OCR` `LLMs`
+---
 
-### 🔹 [Smart Health Advisor AI](https://smart-health-advisor-ai-for-healthc.vercel.app/)
-An NLP-driven symptom-analysis system. I built the React.js frontend and connected it to an async FastAPI backend, cutting query latency by ~40%, and improved recommendation accuracy by ~35% through tokenization caching and refined NLP logic.
-`React.js` `Python` `NLP` `FastAPI` `MongoDB`
+### 💳 [Intelli Credit](https://intelli-credit-kappa.vercel.app)
 
-### 🔹 [Anonymous Chat Platform](https://anon-chat2.vercel.app/)
-A real-time anonymous chat platform with a React.js frontend and a Node.js/Express.js backend, using WebSockets for bidirectional messaging and session-based anonymity across multiple concurrent chat rooms.
-`React.js` `Node.js` `Express.js` `WebSockets`
+> RAG-powered credit appraisal platform that combines OCR, vector search, and LLMs to automate loan document analysis and risk scoring.
 
-### 🔹 [Student Marks Prediction](https://github.com/bhavyaxtech/Student_Marks_Prediction)
-A machine learning project that predicts student marks based on study hours using Linear Regression. Developed with Python, Pandas, and Scikit-learn, covering data preprocessing, visualization, model training, and prediction.
-`Python` `Pandas` `Matplotlib` `Scikit-learn`
+**Tech Stack:** `React` `FastAPI` `PostgreSQL` `OCR` `LLMs`
+
+🔗 **Live Demo:** https://intelli-credit-kappa.vercel.app
+
+---
+
+### 🩺 [Smart Health Advisor AI](https://smart-health-advisor-ai-for-healthc.vercel.app)
+
+> AI healthcare assistant that analyzes symptoms and provides recommendations using NLP with a React + FastAPI architecture.
+
+**Tech Stack:** `React` `FastAPI` `Python` `NLP` `MongoDB`
+
+🔗 **Live Demo:** https://smart-health-advisor-ai-for-healthc.vercel.app
+
+---
+
+### 💬 [Anonymous Chat Platform](https://anon-chat2.vercel.app)
+
+> Real-time anonymous chat application supporting multiple chat rooms using WebSockets and session-based anonymity.
+
+**Tech Stack:** `React` `Node.js` `Express.js` `WebSockets`
+
+🔗 **Live Demo:** https://anon-chat2.vercel.app
+
+---
+
+### 📊 [Student Marks Prediction](https://github.com/bhavyaxtech/Student_Marks_Prediction)
+
+> Machine learning model that predicts student performance using Linear Regression with data visualization and preprocessing.
+
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Scikit-learn`
+
+🔗 **Source Code:** https://github.com/bhavyaxtech/Student_Marks_Prediction
 
 
 <br/>
-## 📌 Featured Repositories
 
-<p align="center">
-
-<a href="https://github.com/bhavyaxtech/CIFAKE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavyaxtech&repo=CIFAKE&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/bhavyaxtech/todo-list-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavyaxtech&repo=todo-list-python&theme=tokyonight"/>
-</a>
-
-</p>
 
 ## 📊 GitHub Analytics
 
