@@ -4,9 +4,6 @@
     <img src="Assets/banner.png" alt="Bhavya Sri Banner" width="100%" />
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+🚀" />
-</p>
 
 ## 👋 Welcome to my GitHub
 
