@@ -1,6 +1,10 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhavyaxtech&color=blueviolet&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavyaxtech&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/bhavyaxtech?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/bhavyaxtech?style=for-the-badge"/>
+</p>
 
 # Hi, I'm Bhavya Sri 👋
 
