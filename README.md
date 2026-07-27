@@ -68,29 +68,26 @@ Building AI-powered applications with Python, FastAPI & React
 
 ## 💡 Featured Projects
 
-### 🔹 [CIFAKE – Real vs AI Generated Image Classification](#)
+### 🔹 [CIFAKE – Real vs AI Generated Image Classification](https://cifake-image-detection-production.up.railway.app/)
 Deep learning-based image classification system that detects whether an image is real or AI-generated. Built using CNN architectures, with image preprocessing, model training, evaluation, and explainable AI techniques.
 `Python` `CNN` `Deep Learning` `Explainable AI`
 
-### 🔹 [Intelli Credit](#)
+### 🔹 [Intelli Credit](https://intelli-credit-kappa.vercel.app/)
 A multi-stage RAG-based credit appraisal engine combining OCR document extraction, vector retrieval, and LLM-based scoring. I built the FastAPI backend and PostgreSQL schema powering the OCR-to-scoring pipeline, along with a risk-scoring and audit-trail module that cut manual review effort by ~50%.
 `React.js` `Python` `FastAPI` `PostgreSQL` `OCR` `LLMs`
 
-### 🔹 [Smart Health Advisor AI](#)
+### 🔹 [Smart Health Advisor AI](https://smart-health-advisor-ai-for-healthc.vercel.app/)
 An NLP-driven symptom-analysis system. I built the React.js frontend and connected it to an async FastAPI backend, cutting query latency by ~40%, and improved recommendation accuracy by ~35% through tokenization caching and refined NLP logic.
 `React.js` `Python` `NLP` `FastAPI` `MongoDB`
 
-### 🔹 [Anonymous Chat Platform](#)
+### 🔹 [Anonymous Chat Platform](https://anon-chat2.vercel.app/)
 A real-time anonymous chat platform with a React.js frontend and a Node.js/Express.js backend, using WebSockets for bidirectional messaging and session-based anonymity across multiple concurrent chat rooms.
 `React.js` `Node.js` `Express.js` `WebSockets`
 
-### 🔹 [Student Marks Prediction](#)
+### 🔹 [Student Marks Prediction](https://github.com/bhavyaxtech/Student_Marks_Prediction)
 A machine learning project that predicts student marks based on study hours using Linear Regression. Developed with Python, Pandas, and Scikit-learn, covering data preprocessing, visualization, model training, and prediction.
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
 
-### 🔹 [Python To-Do List](#)
-A command-line to-do list application built with Python, supporting CRUD operations and file handling to manage and persist tasks locally.
-`Python`
 
 <br/>
 
@@ -114,13 +111,17 @@ A command-line to-do list application built with Python, supporting CRUD operati
 
 <br/>
 
+## 📈 Contribution Graph
+
+[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyaxtech&theme=tokyo-night)](https://github.com/bhavyaxtech)
+
 ## 🏆 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhavyareddy99/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/23eg10mmoy)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/23eg105p02)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 </div>
