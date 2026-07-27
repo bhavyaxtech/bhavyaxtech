@@ -1,6 +1,8 @@
 <div align="center">
 <p align="center">
-  <img src="Assets/banner.png" width="100%">
+  <a href="https://github.com/bhavyaxtech">
+    <img src="Assets/banner.png" alt="Bhavya Sri Banner" width="100%" />
+  </a>
 </p>
 
 ## 👋 Welcome to my GitHub
