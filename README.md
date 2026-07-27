@@ -1,14 +1,11 @@
 <div align="center">
 <p align="center">
-  <img src="Assets/banner.png" width="100%" alt="Bhavya Sri Banner"/>
+  <img src="Assets/banner.png" width="100%">
 </p>
 
+## 👋 Welcome to my GitHub
 
-# Hi, I'm Bhavya Sri 👋
-
-### AI & Full Stack Developer | B.Tech CSE Student
-
-Building AI-powered applications with Python, FastAPI & React
+I'm passionate about building AI-powered applications, scalable backend systems, and modern full-stack solutions.
 
 <br/>
 
