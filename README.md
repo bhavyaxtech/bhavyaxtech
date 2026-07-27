@@ -128,20 +128,27 @@ I'm passionate about building AI-powered applications, scalable backend systems,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyaxtech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=bhavyaxtech&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhavyaxtech&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaxtech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhavyaxtech&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhavyaxtech&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 <br/>
 
 ## 📈 Contribution Graph
